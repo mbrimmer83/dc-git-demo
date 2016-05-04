@@ -15,3 +15,4 @@ State of a file
     committed/unchanged - changes are current
     unstaged- there are unsaved changes
     staged -will be saved when you git commit
+git status
