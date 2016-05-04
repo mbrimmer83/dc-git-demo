@@ -16,3 +16,5 @@ State of a file
     unstaged- there are unsaved changes
     staged -will be saved when you git commit
 git status
+git diff: detailed view of git status.
+git sha(file sha): can resort back to previous changes.
