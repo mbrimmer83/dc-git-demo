@@ -5,4 +5,13 @@ Making a 2nd change.
   git commit -m "note"
 Atom shortcut for adding note.
     git config --global core.editor "atom --wait"
-    
+    git add filename
+    git commit and atom will open
+Tracking files and folders
+
+State of a file
+  untrack ; ignored by git
+  tracked : git tracks changes to the file
+    committed/unchanged - changes are current
+    unstaged- there are unsaved changes
+    staged -will be saved when you git commit

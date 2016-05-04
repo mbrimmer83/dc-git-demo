@@ -1,0 +1,17 @@
+<style>
+body{
+   
+}
+body {
+  background-color: lightblue;
+}
+body{
+  font-famliy: Helvetica, san-serif;
+}
+a {
+  font-weight: bold;
+  font-style: italic;
+  color: green;
+  font-size: 1em;
+  text-shadow: 1px 1px 1px #blue;
+}
