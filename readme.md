@@ -18,3 +18,8 @@ State of a file
 git status
 git diff: detailed view of git status.
 git sha(file sha): can resort back to previous changes.
+
+Git repository: actions
+  Git fetch(will fetch files from github)
+  Git clone url(will get files and code)
+  Git merge orgin/master
